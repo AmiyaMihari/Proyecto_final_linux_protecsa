@@ -1,6 +1,4 @@
-# Proyecto_final_linux_protecsa
-
-![Logo PROTECSA](https://drive.google.com/uc?id=12oRK9pe_gz_3FjSfdPJ5Nk3HNsH97vqU)
+# Proyecto Final de Linux para PROTECSA
 
 ¡Bienvenidos!  
 Este proyecto fue realizado como proyecto final del curso de Linux, por parte de la primera generación de PROTECSA en la Facultad de Ciencias, UNAM.
@@ -19,3 +17,5 @@ Puedes utilizar el comando `ayuda` para poder navegar por las opciones adicional
 Puedes encontrar la documentación del proyecto en el archivo PDF del repositorio.
 
 **¡Esperemos sea de tu agrado!**
+
+![Logo PROTECSA](https://drive.google.com/uc?id=12oRK9pe_gz_3FjSfdPJ5Nk3HNsH97vqU)
